@@ -1,11 +1,10 @@
  Hi there 👋
 
-### About Me:
-
 My name is Godfrey Bongomin but I grew up being called Bongo, so this is the way of telling you that you can call me BONGO!
 
 I am a full-stack web developer with extensive experience working in production, logistics, customer service, and management in a multi-cultural setting. Having already earned a Bachelor's degree in Business Administration while working full time, I recently graduated from UW Coding Bootcamp, an intensive six-month certificate program. I am now searching for a web development position with a company I am passionate about.
 
+Please feel free to connect with me!
 
 <!--
 **bongomin256/bongomin256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
