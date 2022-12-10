@@ -2,7 +2,7 @@
 
 My name is Godfrey Bongomin but I grew up being called Bongo, so this is the way of telling you that you can call me BONGO!
 
-I am a full-stack web developer with extensive experience working in production, logistics, customer service, and management in a multi-cultural setting. Having already earned a Bachelor's degree in Business Administration while working full time, I recently graduated from UW Coding Bootcamp, an intensive six-month certificate program. I am now searching for a web development position with a company I am passionate about.
+I am a frontend developer with backend knowledge, I have  extensive experience working in production, logistics, customer service, and management in a multi-cultural setting. Having already earned a Bachelor's degree in Business Administration while working full time, I recently graduated from UW Coding Bootcamp, an intensive six-month certificate program. I am now searching for a web development position with a company I am passionate about.
 
 Please feel free to connect with me!
 
